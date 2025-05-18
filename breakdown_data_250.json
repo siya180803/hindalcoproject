@@ -1,0 +1,2502 @@
+[
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-04-01",
+    "SHIFT": "A",
+    "Area": "Hydraulic Press",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Gear Oil",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-04-02",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-04-03",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-04-04",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Tested power module",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Memory Card",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-04-05",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-04-06",
+    "SHIFT": "C",
+    "Area": "Machining Center",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Inspection",
+    "spare consumed": "Coolant",
+    "time taken": "4.8 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-04-07",
+    "SHIFT": "A",
+    "Area": "Main Control Room",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-04-08",
+    "SHIFT": "A",
+    "Area": "Assembly Line 1",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Safety test",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-04-09",
+    "SHIFT": "C",
+    "Area": "Boiler Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "RPM test",
+    "spare consumed": "Crane Wire",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-04-10",
+    "SHIFT": "C",
+    "Area": "Welding Section",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Memory Card",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-04-11",
+    "SHIFT": "A",
+    "Area": "Loading Dock",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "5.7 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-04-12",
+    "SHIFT": "A",
+    "Area": "Paint Booth",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Alignment",
+    "spare consumed": "Seal Kit",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-04-13",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Seal Kit",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-04-14",
+    "SHIFT": "A",
+    "Area": "Main Control Room",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Alignment",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-04-15",
+    "SHIFT": "B",
+    "Area": "Hydraulic Press",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Bearing Kit",
+    "time taken": "1.9 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-04-16",
+    "SHIFT": "A",
+    "Area": "Robot Station 1",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "RPM test",
+    "spare consumed": "Memory Card",
+    "time taken": "4.0 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-04-17",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Pump Model X",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-04-18",
+    "SHIFT": "C",
+    "Area": "Loading Dock",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Alignment",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-04-19",
+    "SHIFT": "A",
+    "Area": "Automation Control",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "2.7 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-04-20",
+    "SHIFT": "B",
+    "Area": "Substation",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Cutting Tool",
+    "time taken": "1.9 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-04-21",
+    "SHIFT": "A",
+    "Area": "Compressor Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.9 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-04-22",
+    "SHIFT": "B",
+    "Area": "Welding Section",
+    "Action taken": "Replaced component",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Fuse",
+    "time taken": "3.7 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-04-23",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Gear Oil",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-04-24",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-04-25",
+    "SHIFT": "C",
+    "Area": "Chemical Zone",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Memory Card",
+    "time taken": "1.9 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-04-26",
+    "SHIFT": "B",
+    "Area": "Automation Control",
+    "Action taken": "Replaced component",
+    "pending jobs": "Inspection",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-04-27",
+    "SHIFT": "A",
+    "Area": "Automation Control",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "RPM test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-04-28",
+    "SHIFT": "B",
+    "Area": "Grinding Zone",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "3.9 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-04-29",
+    "SHIFT": "C",
+    "Area": "Loading Dock",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Coolant",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-04-30",
+    "SHIFT": "B",
+    "Area": "Compressor Room",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Memory Card",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-05-01",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Memory Card",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-05-02",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Coolant",
+    "time taken": "2.3 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-05-03",
+    "SHIFT": "C",
+    "Area": "Assembly Line 1",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Seal Kit",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-05-04",
+    "SHIFT": "B",
+    "Area": "Boiler Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Hose Kit",
+    "time taken": "5.7 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-05-05",
+    "SHIFT": "B",
+    "Area": "Loading Dock",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Inspection",
+    "spare consumed": "Bearing Kit",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-05-06",
+    "SHIFT": "B",
+    "Area": "Assembly Line 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Safety test",
+    "spare consumed": "Cutting Tool",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-05-07",
+    "SHIFT": "C",
+    "Area": "Substation",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.1 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-05-08",
+    "SHIFT": "C",
+    "Area": "Grinding Zone",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Load test",
+    "spare consumed": "Crane Wire",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-05-09",
+    "SHIFT": "B",
+    "Area": "Robot Station 1",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Safety test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-05-10",
+    "SHIFT": "C",
+    "Area": "Boiler Room",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Load test",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-05-11",
+    "SHIFT": "B",
+    "Area": "Assembly Line 1",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-05-12",
+    "SHIFT": "B",
+    "Area": "Cooling Chamber",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Gear Oil",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-05-13",
+    "SHIFT": "A",
+    "Area": "Robot Station 1",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Alignment",
+    "spare consumed": "WD-40",
+    "time taken": "5.9 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-05-14",
+    "SHIFT": "C",
+    "Area": "Drilling Unit",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Load test",
+    "spare consumed": "WD-40",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-05-15",
+    "SHIFT": "C",
+    "Area": "Cooling Chamber",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Seal Kit",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-05-16",
+    "SHIFT": "A",
+    "Area": "Welding Section",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Seal Kit",
+    "time taken": "2.0 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-05-17",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Seal Kit",
+    "time taken": "5.1 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-05-18",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Coolant",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-05-19",
+    "SHIFT": "B",
+    "Area": "Paint Booth",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Hose Kit",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-05-20",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Hose Kit",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-05-21",
+    "SHIFT": "C",
+    "Area": "Assembly Line 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Calibration Kit",
+    "time taken": "4.6 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-05-22",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Airflow test",
+    "spare consumed": "WD-40",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-05-23",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-05-24",
+    "SHIFT": "B",
+    "Area": "Inspection Bay",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-05-25",
+    "SHIFT": "C",
+    "Area": "Grinding Zone",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Inspection",
+    "spare consumed": "Calibration Kit",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-05-26",
+    "SHIFT": "B",
+    "Area": "Substation",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Safety test",
+    "spare consumed": "Pump Model X",
+    "time taken": "4.0 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-05-27",
+    "SHIFT": "A",
+    "Area": "Cooling Chamber",
+    "Action taken": "Tested power module",
+    "pending jobs": "Load test",
+    "spare consumed": "Hose Kit",
+    "time taken": "1.8 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-05-28",
+    "SHIFT": "C",
+    "Area": "Compressor Room",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Coolant",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-05-29",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Tested power module",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Gear Oil",
+    "time taken": "5.4 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-05-30",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Load test",
+    "spare consumed": "Seal Kit",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-05-31",
+    "SHIFT": "B",
+    "Area": "Paint Booth",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Recalibration",
+    "spare consumed": "WD-40",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-06-01",
+    "SHIFT": "B",
+    "Area": "Boiler Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Safety test",
+    "spare consumed": "Seal Kit",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-06-02",
+    "SHIFT": "A",
+    "Area": "Chemical Zone",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Safety test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "3.9 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-06-03",
+    "SHIFT": "B",
+    "Area": "Automation Control",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "RPM test",
+    "spare consumed": "Hose Kit",
+    "time taken": "4.1 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-06-04",
+    "SHIFT": "C",
+    "Area": "Cooling Chamber",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Inspection",
+    "spare consumed": "Gear Oil",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-06-05",
+    "SHIFT": "A",
+    "Area": "Processing Line 2",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Alignment",
+    "spare consumed": "Memory Card",
+    "time taken": "2.0 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-06-06",
+    "SHIFT": "C",
+    "Area": "Hydraulic Press",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Inspection",
+    "spare consumed": "Coolant",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-06-07",
+    "SHIFT": "C",
+    "Area": "Robot Station 1",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "RPM test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-06-08",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Load test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "3.7 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-06-09",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Thermal check",
+    "spare consumed": "WD-40",
+    "time taken": "2.2 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-06-10",
+    "SHIFT": "C",
+    "Area": "Vacuum Station",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Safety test",
+    "spare consumed": "Fuse",
+    "time taken": "5.1 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-06-11",
+    "SHIFT": "C",
+    "Area": "Automation Control",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Alignment",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-06-12",
+    "SHIFT": "B",
+    "Area": "Chemical Zone",
+    "Action taken": "Replaced component",
+    "pending jobs": "Safety test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-06-13",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Backup restore",
+    "spare consumed": "WD-40",
+    "time taken": "2.1 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-06-14",
+    "SHIFT": "A",
+    "Area": "Paint Booth",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Hose Kit",
+    "time taken": "4.4 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-06-15",
+    "SHIFT": "A",
+    "Area": "Chemical Zone",
+    "Action taken": "Replaced component",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-06-16",
+    "SHIFT": "C",
+    "Area": "Robot Station 1",
+    "Action taken": "Replaced component",
+    "pending jobs": "Safety test",
+    "spare consumed": "Gear Oil",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-06-17",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Safety test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "4.1 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-06-18",
+    "SHIFT": "A",
+    "Area": "Compressor Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Inspection",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.5 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-06-19",
+    "SHIFT": "B",
+    "Area": "Cooling Chamber",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Pump Model X",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-06-20",
+    "SHIFT": "C",
+    "Area": "Compressor Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Hose Kit",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-06-21",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Replaced component",
+    "pending jobs": "Alignment",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-06-22",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Replaced component",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Gas Sensor",
+    "time taken": "4.8 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-06-23",
+    "SHIFT": "A",
+    "Area": "Loading Dock",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Load test",
+    "spare consumed": "Cutting Tool",
+    "time taken": "1.3 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-06-24",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Load test",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.5 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-06-25",
+    "SHIFT": "C",
+    "Area": "Machining Center",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Alignment",
+    "spare consumed": "Cutting Tool",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-06-26",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Tested power module",
+    "pending jobs": "Load test",
+    "spare consumed": "Crane Wire",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-06-27",
+    "SHIFT": "A",
+    "Area": "Automation Control",
+    "Action taken": "Replaced component",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Cutting Tool",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-06-28",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-06-29",
+    "SHIFT": "C",
+    "Area": "Compressor Room",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-06-30",
+    "SHIFT": "C",
+    "Area": "Chemical Zone",
+    "Action taken": "Replaced component",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-07-01",
+    "SHIFT": "A",
+    "Area": "Vacuum Station",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "5.0 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-07-02",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Industrial Fan",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-07-03",
+    "SHIFT": "C",
+    "Area": "Loading Dock",
+    "Action taken": "Replaced component",
+    "pending jobs": "Inspection",
+    "spare consumed": "Seal Kit",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-07-04",
+    "SHIFT": "C",
+    "Area": "Inspection Bay",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-07-05",
+    "SHIFT": "C",
+    "Area": "Automation Control",
+    "Action taken": "Tested power module",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Coolant",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-07-06",
+    "SHIFT": "B",
+    "Area": "Hydraulic Press",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Memory Card",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-07-07",
+    "SHIFT": "C",
+    "Area": "Grinding Zone",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.3 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-07-08",
+    "SHIFT": "A",
+    "Area": "Welding Section",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Alignment",
+    "spare consumed": "WD-40",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-07-09",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-07-10",
+    "SHIFT": "A",
+    "Area": "Cooling Chamber",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Safety test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-07-11",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Safety test",
+    "spare consumed": "Memory Card",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-07-12",
+    "SHIFT": "C",
+    "Area": "Substation",
+    "Action taken": "Tested power module",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "5.4 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-07-13",
+    "SHIFT": "C",
+    "Area": "Boiler Room",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-07-14",
+    "SHIFT": "C",
+    "Area": "Inspection Bay",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.0 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-07-15",
+    "SHIFT": "C",
+    "Area": "Assembly Line 1",
+    "Action taken": "Replaced component",
+    "pending jobs": "Inspection",
+    "spare consumed": "Bearing Kit",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-07-16",
+    "SHIFT": "B",
+    "Area": "Vacuum Station",
+    "Action taken": "Tested power module",
+    "pending jobs": "Inspection",
+    "spare consumed": "Coolant",
+    "time taken": "3.9 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-07-17",
+    "SHIFT": "A",
+    "Area": "Grinding Zone",
+    "Action taken": "Tested power module",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Industrial Fan",
+    "time taken": "5.7 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-07-18",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Alignment",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "1.8 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-07-19",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Cutting Tool",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-07-20",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Load test",
+    "spare consumed": "WD-40",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-07-21",
+    "SHIFT": "B",
+    "Area": "Hydraulic Press",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Inspection",
+    "spare consumed": "Crane Wire",
+    "time taken": "5.5 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-07-22",
+    "SHIFT": "A",
+    "Area": "Drilling Unit",
+    "Action taken": "Tested power module",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Coolant",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-07-23",
+    "SHIFT": "A",
+    "Area": "Grinding Zone",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "RPM test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "5.9 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-07-24",
+    "SHIFT": "B",
+    "Area": "Automation Control",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Thermal check",
+    "spare consumed": "WD-40",
+    "time taken": "4.5 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-07-25",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Safety test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "3.2 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-07-26",
+    "SHIFT": "B",
+    "Area": "Welding Section",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Load test",
+    "spare consumed": "Coolant",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-07-27",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "RPM test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "2.7 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-07-28",
+    "SHIFT": "C",
+    "Area": "Inspection Bay",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Inspection",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-07-29",
+    "SHIFT": "C",
+    "Area": "Welding Section",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Memory Card",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-07-30",
+    "SHIFT": "C",
+    "Area": "Main Control Room",
+    "Action taken": "Replaced component",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Gas Sensor",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-07-31",
+    "SHIFT": "A",
+    "Area": "Substation",
+    "Action taken": "Replaced component",
+    "pending jobs": "Safety test",
+    "spare consumed": "Gear Oil",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-08-01",
+    "SHIFT": "A",
+    "Area": "Inspection Bay",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Inspection",
+    "spare consumed": "Gear Oil",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-08-02",
+    "SHIFT": "B",
+    "Area": "Robot Station 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Calibration Kit",
+    "time taken": "2.3 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-08-03",
+    "SHIFT": "B",
+    "Area": "Paint Booth",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "WD-40",
+    "time taken": "1.3 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-08-04",
+    "SHIFT": "A",
+    "Area": "Loading Dock",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Inspection",
+    "spare consumed": "Cutting Tool",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-08-05",
+    "SHIFT": "B",
+    "Area": "Chemical Zone",
+    "Action taken": "Tested power module",
+    "pending jobs": "RPM test",
+    "spare consumed": "Hose Kit",
+    "time taken": "4.8 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-08-06",
+    "SHIFT": "B",
+    "Area": "Vacuum Station",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Inspection",
+    "spare consumed": "Hose Kit",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-08-07",
+    "SHIFT": "C",
+    "Area": "Paint Booth",
+    "Action taken": "Replaced component",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-08-08",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Gas Sensor",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-08-09",
+    "SHIFT": "B",
+    "Area": "Compressor Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-08-10",
+    "SHIFT": "A",
+    "Area": "Loading Dock",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Fuse",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-08-11",
+    "SHIFT": "A",
+    "Area": "Vacuum Station",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "RPM test",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "2.7 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-08-12",
+    "SHIFT": "A",
+    "Area": "Compressor Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Safety test",
+    "spare consumed": "Fuse",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-08-13",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "2.0 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-08-14",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Replaced component",
+    "pending jobs": "Safety test",
+    "spare consumed": "Gear Oil",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-08-15",
+    "SHIFT": "A",
+    "Area": "Vacuum Station",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "1.9 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-08-16",
+    "SHIFT": "A",
+    "Area": "Compressor Room",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Alignment",
+    "spare consumed": "Hose Kit",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-08-17",
+    "SHIFT": "C",
+    "Area": "Main Control Room",
+    "Action taken": "Replaced component",
+    "pending jobs": "RPM test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-08-18",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Alignment",
+    "spare consumed": "Seal Kit",
+    "time taken": "3.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-08-19",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Safety test",
+    "spare consumed": "Memory Card",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-08-20",
+    "SHIFT": "C",
+    "Area": "Paint Booth",
+    "Action taken": "Replaced component",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Crane Wire",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-08-21",
+    "SHIFT": "C",
+    "Area": "Cooling Chamber",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Pump Model X",
+    "time taken": "4.0 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-08-22",
+    "SHIFT": "B",
+    "Area": "Welding Section",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Gear Oil",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-08-23",
+    "SHIFT": "A",
+    "Area": "Compressor Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Load test",
+    "spare consumed": "Fuse",
+    "time taken": "2.3 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-08-24",
+    "SHIFT": "B",
+    "Area": "Vacuum Station",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "RPM test",
+    "spare consumed": "Crane Wire",
+    "time taken": "3.9 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-08-25",
+    "SHIFT": "C",
+    "Area": "Substation",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Airflow test",
+    "spare consumed": "WD-40",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-08-26",
+    "SHIFT": "B",
+    "Area": "Vacuum Station",
+    "Action taken": "Tested power module",
+    "pending jobs": "Load test",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-08-27",
+    "SHIFT": "A",
+    "Area": "Machining Center",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Inspection",
+    "spare consumed": "Crane Wire",
+    "time taken": "3.6 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-08-28",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Load test",
+    "spare consumed": "Gear Oil",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-08-29",
+    "SHIFT": "A",
+    "Area": "Vacuum Station",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "RPM test",
+    "spare consumed": "Crane Wire",
+    "time taken": "3.8 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-08-30",
+    "SHIFT": "A",
+    "Area": "Welding Section",
+    "Action taken": "Replaced component",
+    "pending jobs": "Alignment",
+    "spare consumed": "Cutting Tool",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-08-31",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "RPM test",
+    "spare consumed": "Cutting Tool",
+    "time taken": "5.0 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-09-01",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Alignment",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "1.6 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-09-02",
+    "SHIFT": "B",
+    "Area": "Loading Dock",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Alignment",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-09-03",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Load test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "3.7 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-09-04",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Inspection",
+    "spare consumed": "Industrial Fan",
+    "time taken": "3.0 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-09-05",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "RPM test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "1.3 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-09-06",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Crane Wire",
+    "time taken": "5.4 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-09-07",
+    "SHIFT": "A",
+    "Area": "Assembly Line 1",
+    "Action taken": "Replaced component",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Gear Oil",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-09-08",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Tested power module",
+    "pending jobs": "Safety test",
+    "spare consumed": "Fuse",
+    "time taken": "5.1 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-09-09",
+    "SHIFT": "A",
+    "Area": "Machining Center",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "RPM test",
+    "spare consumed": "Cutting Tool",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-09-10",
+    "SHIFT": "C",
+    "Area": "Machining Center",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Seal Kit",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-09-11",
+    "SHIFT": "C",
+    "Area": "Boiler Room",
+    "Action taken": "Tested power module",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "4.8 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-09-12",
+    "SHIFT": "C",
+    "Area": "Automation Control",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Load test",
+    "spare consumed": "Crane Wire",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-09-13",
+    "SHIFT": "A",
+    "Area": "Robot Station 1",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Airflow test",
+    "spare consumed": "WD-40",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-09-14",
+    "SHIFT": "B",
+    "Area": "Loading Dock",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Crane Wire",
+    "time taken": "3.1 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-09-15",
+    "SHIFT": "C",
+    "Area": "Assembly Line 1",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Coolant",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-09-16",
+    "SHIFT": "B",
+    "Area": "Assembly Line 1",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Gas Sensor",
+    "time taken": "2.5 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-09-17",
+    "SHIFT": "A",
+    "Area": "Assembly Line 1",
+    "Action taken": "Tested power module",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Pump Model X",
+    "time taken": "1.1 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-09-18",
+    "SHIFT": "C",
+    "Area": "Compressor Room",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "RPM test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-09-19",
+    "SHIFT": "A",
+    "Area": "Hydraulic Press",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Load test",
+    "spare consumed": "Coolant",
+    "time taken": "1.9 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-09-20",
+    "SHIFT": "A",
+    "Area": "Robot Station 1",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Safety test",
+    "spare consumed": "Fuse",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-09-21",
+    "SHIFT": "A",
+    "Area": "Machining Center",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Alignment",
+    "spare consumed": "Fuse",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-09-22",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Calibration Kit",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-09-23",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Alignment",
+    "spare consumed": "Memory Card",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-09-24",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "Industrial Fan",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-09-25",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-09-26",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Load test",
+    "spare consumed": "Crane Wire",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-09-27",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Inspection",
+    "spare consumed": "Pump Model X",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-09-28",
+    "SHIFT": "A",
+    "Area": "Drilling Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Inspection",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "5.4 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-09-29",
+    "SHIFT": "A",
+    "Area": "Packaging Unit",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Alignment",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-09-30",
+    "SHIFT": "A",
+    "Area": "Machining Center",
+    "Action taken": "Replaced component",
+    "pending jobs": "Inspection",
+    "spare consumed": "Hose Kit",
+    "time taken": "3.2 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-10-01",
+    "SHIFT": "A",
+    "Area": "Grinding Zone",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "RPM test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.1 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-10-02",
+    "SHIFT": "C",
+    "Area": "Grinding Zone",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Hose Kit",
+    "time taken": "2.7 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-10-03",
+    "SHIFT": "C",
+    "Area": "Cooling Chamber",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "RPM test",
+    "spare consumed": "WD-40",
+    "time taken": "5.7 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-10-04",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Alignment",
+    "spare consumed": "Gas Sensor",
+    "time taken": "3.1 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-10-05",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Tested power module",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Gear Oil",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-10-06",
+    "SHIFT": "B",
+    "Area": "Substation",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Alignment",
+    "spare consumed": "Industrial Fan",
+    "time taken": "1.6 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-10-07",
+    "SHIFT": "B",
+    "Area": "Automation Control",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Seal Kit",
+    "time taken": "3.1 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-10-08",
+    "SHIFT": "B",
+    "Area": "Chemical Zone",
+    "Action taken": "Tested power module",
+    "pending jobs": "RPM test",
+    "spare consumed": "Fuse",
+    "time taken": "3.6 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-10-09",
+    "SHIFT": "C",
+    "Area": "Robot Station 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "RPM test",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-10-10",
+    "SHIFT": "C",
+    "Area": "Vacuum Station",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-10-11",
+    "SHIFT": "C",
+    "Area": "Assembly Line 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "RPM test",
+    "spare consumed": "Coolant",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-10-12",
+    "SHIFT": "B",
+    "Area": "Robot Station 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Safety test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-10-13",
+    "SHIFT": "A",
+    "Area": "Processing Line 2",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Inspection",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-10-14",
+    "SHIFT": "B",
+    "Area": "Inspection Bay",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Voltage check",
+    "spare consumed": "WD-40",
+    "time taken": "5.2 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-10-15",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Safety test",
+    "spare consumed": "Crane Wire",
+    "time taken": "3.6 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-10-16",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Cutting Tool",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Dust Collector Clog",
+    "Name": "2023-10-17",
+    "SHIFT": "B",
+    "Area": "Assembly Line 1",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Industrial Fan",
+    "time taken": "1.3 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-10-18",
+    "SHIFT": "C",
+    "Area": "Inspection Bay",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Inspection",
+    "spare consumed": "Calibration Kit",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-10-19",
+    "SHIFT": "C",
+    "Area": "Main Control Room",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Thermal check",
+    "spare consumed": "WD-40",
+    "time taken": "4.4 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-10-20",
+    "SHIFT": "B",
+    "Area": "Inspection Bay",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Thermal check",
+    "spare consumed": "WD-40",
+    "time taken": "2.1 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-10-21",
+    "SHIFT": "C",
+    "Area": "Compressor Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "Gear Oil",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-10-22",
+    "SHIFT": "C",
+    "Area": "Paint Booth",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "RPM test",
+    "spare consumed": "Pump Model X",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-10-23",
+    "SHIFT": "B",
+    "Area": "Chemical Zone",
+    "Action taken": "Replaced component",
+    "pending jobs": "Inspection",
+    "spare consumed": "Industrial Fan",
+    "time taken": "4.2 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-10-24",
+    "SHIFT": "C",
+    "Area": "Robot Station 1",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Seal Kit",
+    "time taken": "4.1 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-10-25",
+    "SHIFT": "B",
+    "Area": "Grinding Zone",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Load test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-10-26",
+    "SHIFT": "C",
+    "Area": "Automation Control",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Load test",
+    "spare consumed": "Photoelectric Sensor",
+    "time taken": "3.1 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-10-27",
+    "SHIFT": "B",
+    "Area": "Paint Booth",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Calibration Kit",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Gas Leak Detector Fault",
+    "Name": "2023-10-28",
+    "SHIFT": "C",
+    "Area": "Loading Dock",
+    "Action taken": "Tested power module",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Gas Sensor",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-10-29",
+    "SHIFT": "C",
+    "Area": "Main Control Room",
+    "Action taken": "Tested power module",
+    "pending jobs": "Backup restore",
+    "spare consumed": "WD-40",
+    "time taken": "4.7 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-10-30",
+    "SHIFT": "B",
+    "Area": "Assembly Line 1",
+    "Action taken": "Checked safety protocols",
+    "pending jobs": "Inspection",
+    "spare consumed": "Bearing Kit",
+    "time taken": "2.6 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-10-31",
+    "SHIFT": "A",
+    "Area": "Inspection Bay",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "Safety test",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "1.5 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-11-01",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Inspection",
+    "spare consumed": "Coolant",
+    "time taken": "2.1 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-11-02",
+    "SHIFT": "B",
+    "Area": "Cooling Chamber",
+    "Action taken": "Tested power module",
+    "pending jobs": "RPM test",
+    "spare consumed": "Bearing Kit",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-11-03",
+    "SHIFT": "A",
+    "Area": "Hydraulic Press",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Recalibration",
+    "spare consumed": "WD-40",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-11-04",
+    "SHIFT": "B",
+    "Area": "Processing Line 2",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Gear Oil",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-11-05",
+    "SHIFT": "C",
+    "Area": "Robot Station 1",
+    "Action taken": "Tested power module",
+    "pending jobs": "Safety test",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "1.2 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-11-06",
+    "SHIFT": "B",
+    "Area": "Hydraulic Press",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Calibration Kit",
+    "time taken": "5.9 hours"
+  },
+  {
+    "breakdown": "Sensor Malfunction",
+    "Name": "2023-11-07",
+    "SHIFT": "A",
+    "Area": "Paint Booth",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Thermal check",
+    "spare consumed": "WD-40",
+    "time taken": "5.4 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-11-08",
+    "SHIFT": "C",
+    "Area": "Cooling Chamber",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Alignment",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-11-09",
+    "SHIFT": "C",
+    "Area": "Processing Line 2",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Alignment",
+    "spare consumed": "Gas Sensor",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-11-10",
+    "SHIFT": "A",
+    "Area": "Welding Section",
+    "Action taken": "Lubricated parts",
+    "pending jobs": "RPM test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "5.6 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-11-11",
+    "SHIFT": "A",
+    "Area": "Automation Control",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Alignment",
+    "spare consumed": "Memory Card",
+    "time taken": "5.8 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-11-12",
+    "SHIFT": "A",
+    "Area": "Drilling Unit",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Bearing Kit",
+    "time taken": "4.1 hours"
+  },
+  {
+    "breakdown": "Drill Chuck Loose",
+    "Name": "2023-11-13",
+    "SHIFT": "A",
+    "Area": "Cooling Chamber",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Safety test",
+    "spare consumed": "Memory Card",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-11-14",
+    "SHIFT": "B",
+    "Area": "Substation",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "2.3 hours"
+  },
+  {
+    "breakdown": "Conveyor Belt Tear",
+    "Name": "2023-11-15",
+    "SHIFT": "A",
+    "Area": "Main Control Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Load test",
+    "spare consumed": "Pump Model X",
+    "time taken": "2.8 hours"
+  },
+  {
+    "breakdown": "Cooling Fan Failure",
+    "Name": "2023-11-16",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Thermal check",
+    "spare consumed": "Gas Sensor",
+    "time taken": "2.9 hours"
+  },
+  {
+    "breakdown": "Hydraulic Pump Failure",
+    "Name": "2023-11-17",
+    "SHIFT": "A",
+    "Area": "Drilling Unit",
+    "Action taken": "Replaced component",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Coolant",
+    "time taken": "3.3 hours"
+  },
+  {
+    "breakdown": "Control Panel Failure",
+    "Name": "2023-11-18",
+    "SHIFT": "B",
+    "Area": "Chemical Zone",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Hose Kit",
+    "time taken": "3.7 hours"
+  },
+  {
+    "breakdown": "Gearbox Noise",
+    "Name": "2023-11-19",
+    "SHIFT": "A",
+    "Area": "Robot Station 1",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Seal Kit",
+    "time taken": "5.5 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-11-20",
+    "SHIFT": "A",
+    "Area": "Main Control Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Safety test",
+    "spare consumed": "Hose Kit",
+    "time taken": "3.4 hours"
+  },
+  {
+    "breakdown": "CNC Tool Breakage",
+    "Name": "2023-11-21",
+    "SHIFT": "B",
+    "Area": "Compressor Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "RPM test",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "1.7 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-11-22",
+    "SHIFT": "B",
+    "Area": "Compressor Room",
+    "Action taken": "Flushed cooling line",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Fuse",
+    "time taken": "5.9 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-11-23",
+    "SHIFT": "A",
+    "Area": "Paint Booth",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Airflow test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-11-24",
+    "SHIFT": "C",
+    "Area": "Drilling Unit",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "1.0 hours"
+  },
+  {
+    "breakdown": "Hydraulic Hose Burst",
+    "Name": "2023-11-25",
+    "SHIFT": "B",
+    "Area": "Hydraulic Press",
+    "Action taken": "Rebooted panel",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Circuit Breaker",
+    "time taken": "1.4 hours"
+  },
+  {
+    "breakdown": "Robot Arm Misalignment",
+    "Name": "2023-11-26",
+    "SHIFT": "A",
+    "Area": "Loading Dock",
+    "Action taken": "Cleared jam",
+    "pending jobs": "Inspection",
+    "spare consumed": "Pump Model X",
+    "time taken": "3.6 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-11-27",
+    "SHIFT": "B",
+    "Area": "Main Control Room",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Voltage check",
+    "spare consumed": "Pump Model X",
+    "time taken": "2.0 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-11-28",
+    "SHIFT": "B",
+    "Area": "Machining Center",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Alignment",
+    "spare consumed": "Filter Cartridge",
+    "time taken": "4.9 hours"
+  },
+  {
+    "breakdown": "Vacuum Pump Noise",
+    "Name": "2023-11-29",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Replaced component",
+    "pending jobs": "RPM test",
+    "spare consumed": "Pump Model X",
+    "time taken": "2.0 hours"
+  },
+  {
+    "breakdown": "Paint Line Jam",
+    "Name": "2023-11-30",
+    "SHIFT": "A",
+    "Area": "Paint Booth",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Safety test",
+    "spare consumed": "Industrial Fan",
+    "time taken": "5.5 hours"
+  },
+  {
+    "breakdown": "Power Fluctuation",
+    "Name": "2023-12-01",
+    "SHIFT": "B",
+    "Area": "Packaging Unit",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Belt Patch Kit",
+    "time taken": "5.0 hours"
+  },
+  {
+    "breakdown": "Crane Wire Snap",
+    "Name": "2023-12-02",
+    "SHIFT": "C",
+    "Area": "Paint Booth",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Alignment",
+    "spare consumed": "Calibration Kit",
+    "time taken": "4.5 hours"
+  },
+  {
+    "breakdown": "PLC Program Crash",
+    "Name": "2023-12-03",
+    "SHIFT": "A",
+    "Area": "Boiler Room",
+    "Action taken": "Ran diagnostics",
+    "pending jobs": "Alignment",
+    "spare consumed": "Gas Sensor",
+    "time taken": "5.3 hours"
+  },
+  {
+    "breakdown": "Overheating Motor",
+    "Name": "2023-12-04",
+    "SHIFT": "C",
+    "Area": "Packaging Unit",
+    "Action taken": "Reinstalled firmware",
+    "pending jobs": "Recalibration",
+    "spare consumed": "Cutting Tool",
+    "time taken": "4.6 hours"
+  },
+  {
+    "breakdown": "Welding Arm Stuck",
+    "Name": "2023-12-05",
+    "SHIFT": "B",
+    "Area": "Drilling Unit",
+    "Action taken": "Replaced component",
+    "pending jobs": "Backup restore",
+    "spare consumed": "Crane Wire",
+    "time taken": "2.4 hours"
+  },
+  {
+    "breakdown": "Air Compressor Leak",
+    "Name": "2023-12-06",
+    "SHIFT": "B",
+    "Area": "Boiler Room",
+    "Action taken": "Recalibrated system",
+    "pending jobs": "Voltage check",
+    "spare consumed": "WD-40",
+    "time taken": "1.7 hours"
+  }
+]
